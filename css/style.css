@@ -2,6 +2,15 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden; }
 
+  .btn-signin {
+  	  background: #263961;
+  	  border-radius: 0;
+  	  color: #fff;
+  	  border-width: 1px;
+  	  border-style: solid;
+  	  border-color: #263961;
+  	}
+
 .btn-facebook {
 	  background: #3B5998;
 	  border-radius: 0;
